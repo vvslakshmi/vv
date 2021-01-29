@@ -1,0 +1,6 @@
+git add.
+git log 
+git status
+git commit -m "version"
+git log --oneline
+git checkout
